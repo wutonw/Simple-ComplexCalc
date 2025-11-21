@@ -39,4 +39,5 @@ if __name__=='__main__':
         print("no support calculate")
     print("代数形式："f"{result.real:.3f} {'+' if result.imag>=0 else '-'} j{abs(result.imag):.3f}")
     print("polar:",polar(result))
+    print("y")
 
