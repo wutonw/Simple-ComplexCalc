@@ -22,9 +22,7 @@ dist/
 Thumbs.db
 
 .idea/
-!.idea/runConfigurations/
-!.idea/codeStyles/
-!.idea/inspectionProfiles/
+
 
 .idea/workspace.xml
 .idea/tasks.xml
